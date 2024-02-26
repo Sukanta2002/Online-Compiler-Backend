@@ -77,7 +77,7 @@ chmod +x /public/docker/python/build.sh
 
 ```json
 {
-  "lang": python,
+  "lang": "python",
   "code": "print('Hello')"
 }
 ```
